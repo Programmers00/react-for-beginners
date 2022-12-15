@@ -1,1 +1,3 @@
-# react-for-beginners
+# React for Beginners
+
+Learning React From Zero to Ninja
